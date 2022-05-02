@@ -7,7 +7,7 @@ and all the rest of the details(User information etc...) on MySQL,
 This website gives the customer the ability to see&buy all the products on one website instead of searching between all 4 websites.
 </h4>
 <h1>Deployed to Heroku</h1>
-<a href="https://frontend-ben-ecommerce.herokuapp.com/">ben-ecommerce</a>
+<a href="https://frontend-ben-ecommerce.herokuapp.com/">Vinerfia-ecommerce</a>
 <h2>Some photos</h2>
 
 <h1>Items Page</h1>

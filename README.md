@@ -2,9 +2,9 @@
 
 <h1>What is?</h1>
 <h4>
-ecommerce website at each hour running many processes to scrape all data from companies(Adidas,Nike,Puma,Rebook), and switch between old database to new database on MongoDB,
-and all rest of the details on MySQL,
-it's give to customer to see&buy all items in one website instead search between all 4 websites
+Ecommerce website, at each hour the server is running many processes in order to scrape all th data from companies(Adidas,Nike,Puma,Rebook), and switch between an old database to a new database on MongoDB,
+and all the rest of the details(User information etc...) on MySQL,
+This website gives the customer the ability to see&buy all the products on one website instead of searching between all 4 websites.
 </h4>
 <h1>Deployed to Heroku</h1>
 <a href="https://frontend-ben-ecommerce.herokuapp.com/">ben-ecommerce</a>
